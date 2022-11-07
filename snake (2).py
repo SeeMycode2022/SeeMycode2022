@@ -1,10 +1,5 @@
 import pygame, sys, time, random
 
-#sidk mouhib ya manar ya dh3ifa
-#sidk mouhib zeyd 
-
-
-
 # CHEERSS
 
 
